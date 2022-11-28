@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print (f"{98} Timmie Ashperry")
+#!/bin/bash
+python3 $PYFILE
